@@ -1,4 +1,4 @@
-# Udemy_Enron_Fraud_POI_Identification
+# Udacity_Enron_Fraud_POI_Identification
 
 1. The goal of the project was to identify Enron Employees responsible for the fraud based on the Enron financial and email dataset using a machine learning algorithm. Machine learning helps us learn from previously available data and to predict the outcome of the new data. It is useful to identify the features which are critical and need to be monitored.
 The dataset available has in total 146 data points. The data is in the form of a dictionary with the keys corresponding to each person. Out of which the 18 people are identified POI ['HANNON KEVIN P', 'COLWELL WESLEY', 'RIEKER PAULA H', 'KOPPER MICHAEL J', 'SHELBY REX', 'DELAINEY DAVID W', 'LAY KENNETH L', 'BOWEN JR RAYMOND M', 'BELDEN TIMOTHY N', 'FASTOW ANDREW S', 'CALGER CHRISTOPHER F', 'RICE KENNETH D', 'SKILLING JEFFREY K', 'YEAGER F SCOTT', 'HIRKO JOSEPH', 'KOENIG MARK E', 'CAUSEY RICHARD A', 'GLISAN JR BEN F']
